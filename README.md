@@ -2,6 +2,7 @@
 
 - I’m currently working on the Warwick Data Science society Python course to learn more about data scinence with intent on learning machine learning principles.
 - Currently partaking in the odin project where I've been learning full stack development involving Javascript, HTML/CSS and React.
+- Working on questions from the cracking the code interview to prepare myself for technical interviews
 
 ---
 
