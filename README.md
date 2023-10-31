@@ -1,4 +1,4 @@
-## I'm a 3rd year student at the University of Warwick, studying Computer Science. I'm working towards a Masters degree, and have special interest in both Artificial intelligence and Software Engineering.
+## I'm a 4th year student at the University of Warwick, studying Computer Science. I'm working towards a Masters degree, and have special interest in both Artificial intelligence and Software Engineering.
 
 - I’m currently working on the Warwick Data Science society Python course to learn more about data scinence with intent on learning machine learning principles.
 - Currently partaking in the odin project where I've been learning full stack development involving Javascript, HTML/CSS and React.
